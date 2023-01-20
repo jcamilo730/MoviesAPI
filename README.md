@@ -46,7 +46,7 @@ A continuacion se explican las distintas consultas de la API junto con un ejempl
 
 Link de la APPI: https://5zqr2r.deta.dev<br>
 
-NOTA: Para una informacion aun mas detallada sobre el funcionamiento de la API se puede consultar el archivo "Readme-API.md"
+NOTA: Para una informacion aun mas detallada sobre el funcionamiento de la API se puede consultar el archivo "detailedAPI.md"
 
 
 ### 3.1 /get_word_count={platform}_{keyword}
