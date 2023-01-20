@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from queries import Queries
 
 
 app = FastAPI()
