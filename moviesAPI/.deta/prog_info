@@ -1,0 +1,1 @@
+{"id":"f60caa9d-9190-4498-9ad3-4195856a17f6","space":48677,"runtime":"python3.9","name":"moviesAPI","path":"5zqr2r","project":"e0yytyfx","account":"144798365827","region":"sa-east-1","deps":["fastapi","pandas"],"envs":null,"public":true,"log_level":"off","cron":""}
