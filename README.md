@@ -1,7 +1,8 @@
 
 # Documentacion del proyecto MoviesAPI
 
-MoviesAPI es una API que permite realizar consultas a un catálogo de series y películas con información básica de las mismas (título, plataforma, año, sinopsis...) 
+MoviesAPI es una API que permite realizar consultas a un catálogo de series y películas con información básica de las mismas (título, plataforma, año, sinopsis...).
+
 link [MoviesAPI](https://5zqr2r.deta.dev)
 
 
