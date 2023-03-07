@@ -1,6 +1,10 @@
 
 # Documentacion del proyecto MoviesAPI
 
+MoviesAPI es una API que permite realizar consultas a un catálogo de series y películas con información básica de las mismas (título, plataforma, año, sinopsis...) 
+link [MoviesAPI](https://5zqr2r.deta.dev)
+
+
 Dentro del proyecto se encuentran dos carpetas, la de "Transformacion", en la que se encuentra lo relacionado a la transformacion del dataset original. Y la carpeta "moviesApi", donde se encuentran los archivos de la API ya terminada.
 link api: https://5zqr2r.deta.dev
 
@@ -46,7 +50,7 @@ A continuacion se explican las distintas consultas de la API junto con un ejempl
 
 Link de la APPI: https://5zqr2r.deta.dev<br>
 
-NOTA: Para una informacion aun mas detallada sobre el funcionamiento de la API se puede consultar el archivo "detailedAPI.md"
+NOTA: Para una informacion aun mas detallada sobre el funcionamiento de la API se puede consultar el archivo [detailedAPI.md](https://github.com/jcamilo730/MoviesAPI/blob/437dc3c25978682f3074b91d0cbc70017b750dcf/detailedAPI.md)
 
 
 ### 3.1 /get_word_count={platform}_{keyword}
