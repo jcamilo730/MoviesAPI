@@ -7,7 +7,7 @@ Get que retorna la cantidad de veces que aparece una keyword en los titulos de u
 | platform | str | plataforma a buscar entre las siguientes:Amazon, Disney, Hulu, Netflix |
 | keyword | str | la palabra a buscar en los titulos |
 
-**En la variable {platform} la API solo leera la primera letra, asi que si lo desea puede realizar la busqueda solo con la letra inicial de la pplataforma, o con el nombre completo*
+**En la variable {platform} la API solo leera la primera letra, asi que si lo desea puede realizar la busqueda solo con la letra inicial de la plataforma, o con el nombre completo*
 
 ### Ejemplo:
 
