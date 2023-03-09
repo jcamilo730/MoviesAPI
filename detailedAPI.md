@@ -10,9 +10,10 @@ Get que retorna la cantidad de veces que aparece una keyword en los titulos de u
 **En la variable {platform} la API solo leera la primera letra, asi que si lo desea puede realizar la busqueda solo con la letra inicial de la plataforma, o con el nombre completo*
 
 ### Ejemplo:
+a continuación se esta realizando la busqueda de la palabra "love" en los titulos de la plataforma netflix.
 
     https://5zqr2r.deta.dev/get_word_count=netflix_love
-aca se esta realizando la busqueda de la palabra "love" en los titulos de la plataforma netflix.
+
 output:
 
     "hay 196 titulos con la palabra love en la plataforma netflix"
@@ -27,9 +28,10 @@ Get que retorna la cantidad de películas de un cierto año con un puntaje mayor
 
 **En la variable {platform} la API solo leera la primera letra, asi que si lo desea puede realizar la busqueda solo con la letra inicial de la pplataforma, o con el nombre completo*
 ### Ejemplo:
+a continuación se esta realizando la busqueda de las peliculas del 2010 con un puntaje mayor a 85 en netflix.
 
     https://5zqr2r.deta.dev/get_score_count=netflix_85_2010
-aca se esta realizando la busqueda de las peliculas del 2010 con un puntaje mayor a 85 en netflix.
+
 output:
 
     "hay 20 películas del 2010 en netflix con un puntaje mayor a 85"
@@ -43,9 +45,10 @@ Get que retorna la segunda película con mayor score para una plataforma determi
 
 **En la variable {platform} la API solo leera la primera letra, asi que si lo desea puede realizar la busqueda solo con la letra inicial de la pplataforma, o con el nombre completo*
 ### Ejemplo:
+a continuación se realiza la busqueda en la plataforma amazon
 
     https://5zqr2r.deta.dev/get_second_score=amazon
-aca se realiza la busqueda en la plataforma amazon
+
 output:
 
     id:
@@ -88,9 +91,10 @@ Get que retorna los titulos que más duraron según el año, plataforma y tipo d
 
 **En la variable {platform} la API solo leera la primera letra, asi que si lo desea puede realizar la busqueda solo con la letra inicial de la pplataforma, o con el nombre completo*
 ### Ejemplo:
+esta busqueda arroja los titulos con mayor duracion en minutos del año 2016 en netflix
 
     https://5zqr2r.deta.dev/get_longest=netflix_min_2016
-esta busqueda arroja los titulos con mayor duracion en minutos del año 2016 en netflix
+
 
 ## GET /get_rating_count={rating}
 Get que retorna la cantidad de titulos por el rating de publico especificado.
@@ -128,9 +132,10 @@ tv-y7-fv<br>
 notrated<br>
 ur<br>
 ### Ejemplo:
+esta busqueda arroja la cantidad de titulos por el rating 18+
 
     https://5zqr2r.deta.dev/get_rating_count=18+
-esta busqueda arroja la cantidad de titulos por el rating 18+
+
 output:
 
     "hay 1243 titulos con el rating 18+"
